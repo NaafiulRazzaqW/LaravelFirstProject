@@ -26,3 +26,7 @@ Route::get('/home', function () {
 
     ;
 });
+
+Route::get('/', function (){
+
+});
