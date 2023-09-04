@@ -14,7 +14,7 @@
     <h1><?= $home ?></h1>
     <h3><?= $nama ?></h3>
     <p><?= $email ?></p>
-    <p></p>
+    <p>artisan</p>
 
 
     <script src="js/style.js"></script>
